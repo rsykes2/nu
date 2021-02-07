@@ -16,3 +16,4 @@ const Index = () => (
 </Page>
 );
 
+export default Index;
