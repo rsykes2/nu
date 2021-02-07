@@ -5,7 +5,7 @@ const Index = () => (
   breadcrumbs={[{content: 'Products', url: '/products'}]}
   title="Jar With Lock-Lid"
   titleMetadata={<Badge status="attention">Verified</Badge>}
-  primaryAction={{content: 'Save', disabled: false}
+  primaryAction={{content: 'Save', disabled: false}}
   secondaryActions={[{content: 'Duplicate'}, {content: 'View on your store'}]}
   pagination={{
     hasPrevious: true,
